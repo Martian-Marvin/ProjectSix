@@ -8,6 +8,8 @@ public class ExampleSix {
 		
 		System.out.println(" Example Six ");
 		System.out.println(" Example when change is made");
+		system.out.println(" Examlpe when making change from server");
+		
 	}
 	
 	
