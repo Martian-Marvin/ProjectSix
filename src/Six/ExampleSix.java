@@ -7,7 +7,7 @@ public class ExampleSix {
 		
 		
 		System.out.println(" Example Six ");
-		
+		System.out.println(" Example when change is made");
 	}
 	
 	
